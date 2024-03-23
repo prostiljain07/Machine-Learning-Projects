@@ -1,3 +1,10 @@
-# # Practising Git commands
 
-for project Steel Plate Defect Predictiongit remote add origin https://github.com/prostiljain07/Team-AIB.git
+All Listed End-To-End Machine Learning Projects:
+
+
+
+
+
+I am regularly adding the ML Projects into this repository using Machine Learning techniques and Python.
+
+How to reach me techjainindia@gmail.com
